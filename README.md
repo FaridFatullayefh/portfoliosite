@@ -9,3 +9,4 @@ Backend Features:
 📩 View and store messages sent from the contact form in the database via the admin panel
 --------
 📄 Ability to change the resume file displayed on the homepage via the admin panel
+--------
