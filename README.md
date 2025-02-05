@@ -5,5 +5,7 @@ This project features a portfolio site with a modern design. Its user-friendly i
 Backend Features:
 
 🛠 Admin login panel for secure access
+--------
 📩 View and store messages sent from the contact form in the database via the admin panel
+--------
 📄 Ability to change the resume file displayed on the homepage via the admin panel
