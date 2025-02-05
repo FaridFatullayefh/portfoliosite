@@ -10,3 +10,5 @@ Backend Features:
 --------
 📄 Ability to change the resume file displayed on the homepage via the admin panel
 --------
+
+![Portfolio Image](portfolio.png)
